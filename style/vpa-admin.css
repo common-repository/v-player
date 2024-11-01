@@ -1,0 +1,98 @@
+#vpa-main {
+ margin-top:30px;
+ width:100%;
+ float:left;
+ overflow:hidden;
+}
+
+.vpa-box {
+ width:100%;
+ float:left;
+ padding:4px;
+}
+
+.vpa-box input[type=text] {
+ width:40%;
+ float:left;
+ padding:4px;
+ border-radius:3px;
+}
+
+.v-button-primary {
+    border:0;
+    background-color:blueviolet;
+    color:#fff;
+    border-radius:3px;
+    padding: 5px;
+}
+
+.v-button-primary:hover {
+    cursor: pointer;
+    background-color: #660099;
+}
+
+.wpa-poster-pre {
+    width:200px;
+    height:auto;
+    float:left;
+}
+
+.vpa-insert {
+    border:0;
+    float:left;
+    margin:10px 0 0 5px;
+    background-color:yellowgreen;
+    color:#fff;
+    border-radius:3px;
+    padding:5px 10px 5px 10px;
+    cursor: pointer;
+}
+.vpa-insert:hover {
+    background-color: #77CC11;
+
+    }
+.vpa-update {
+    border:0;
+    float:left;
+    margin:10px 0 0 5px;
+    background-color:yellowgreen;
+    color:#fff;
+    border-radius:3px;
+    padding:5px 10px 5px 10px;
+    cursor: pointer;
+}
+.vpa-update:hover {
+    background-color: #77CC11;
+
+    }
+	
+#table_vpa a{
+    text-decoration: none;
+    color:cadetblue;
+    padding:9px;
+}
+
+#table_vpa a:hover{
+    color:red;
+
+}
+
+#table_vpa td{
+    border: 1px solid #ddd;
+    padding: 8px;
+    color:#555;
+}
+
+#table_vpa tr:hover {background-color: #ddd;}
+
+#table_vpa th {
+    text-align: left;
+    background-color: yellowgreen;
+    color: white;
+    padding: 9px;
+}
+
+.navigation_vpa a{
+    color:red;
+    padding:9px;
+}
